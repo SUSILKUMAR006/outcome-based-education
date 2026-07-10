@@ -1,5 +1,3 @@
-# Unified Report System - Complete Guide
-
 ## ✅ Answer: YES, This is Already Possible!
 
 Your system is **already set up** to use the same backend API and MongoDB collection for both Internal Exam Reports and End Semester Reports. Here's a comprehensive explanation of how it works and how to use it.
