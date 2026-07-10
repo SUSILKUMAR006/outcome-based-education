@@ -515,12 +515,5 @@ If you want to add more report types in the future:
    ```
 
 3. **Update frontend** to send the new report type
-
 ---
-
-## 🎉 Conclusion
-
-Your system is **already correctly set up** to handle both report types in the same collection. The `report_type` field ensures proper differentiation, and the flexible `report_data` object allows each report type to have its own structure while sharing the same storage and API.
-
-Both your `Internal.jsx` and `EndSemester.jsx` components are correctly sending data to the same endpoint with the appropriate `report_type` field. The system is working as intended! 🚀
 
